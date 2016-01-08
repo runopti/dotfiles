@@ -41,6 +41,8 @@ NeoBundle 'kannokanno/previm'
 NeoBundle 'kana/vim-submode'
 NeoBundle 'tyru/open-browser.vim'
 
+NeoBundle 'godlygeek/tabular' "For vim-markdown
+NeoBundle 'plasticboy/vim-markdown' "installed to enable Github Favored Markdown highlighting
 
 
 " All of your Plugins must be added before the following line
